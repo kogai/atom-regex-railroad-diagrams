@@ -1,6 +1,6 @@
 {
-  "name": "regex-railroad-diagram",
-  "main": "./lib/regex-railroad-diagram",
+  "name": "@kogai/railroad-diagrams",
+  "main": "./lib/railroad-diagrams",
   "version": "0.16.0",
   "description": "Display railroad diagram of regex under cursor.",
   "repository": "https://github.com/klorenz/atom-regex-railroad-diagrams",
